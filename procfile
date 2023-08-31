@@ -1,0 +1,1 @@
+worker: node chatgpt_bot.py
