@@ -1,1 +1,1 @@
-worker: node chatgpt_bot.py
+worker: python chatgpt_bot.py
