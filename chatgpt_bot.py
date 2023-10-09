@@ -15,10 +15,10 @@ import openai
 
 
 # Установите свой токен для Discord бота
-DISCORD_TOKEN = 'MTE0NjMxOTAzNDQ4MTEzMTU5MA.Gm-joc.x9synvrrgm5-TCH1yEAg8RkUnEWjSP4h-NzmF4'
+DISCORD_TOKEN = 'YOUR TOKEN'
 
 # Установите ваш API-ключ для OpenAI
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'YOUR API KEY'
 
 # Инициализация бота Discord
 intents = discord.Intents.all()
