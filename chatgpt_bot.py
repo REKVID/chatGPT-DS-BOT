@@ -2,12 +2,6 @@ import discord
 import os
 import openai
 
-# gpt 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
-# ds  ("MTE0NjMxOTAzNDQ4MTEzMTU5MA.Gm-joc.x9synvrrgm5-TCH1yEAg8RkUnEWjSP4h-NzmF4")
-
-
-
-
 
 
 
